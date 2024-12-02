@@ -1,4 +1,4 @@
-This repo primarily deal with format and highlights things that will lose marks on assignments. 
+This repo primarily deals with formatting and highlights things that will lose marks on assignments. 
 
 It absolutely will not help you solve any problems. The exception is the fourier series stuff, that file actually has to do with figuring out concepts.
 
