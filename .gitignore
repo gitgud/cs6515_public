@@ -1,0 +1,35 @@
+
+.DS_Store
+.idea
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook / Ipython
+.ipynb_checkpoints
+profile_default/
+ipython_config.py
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Environments
+.env
+#.venv
+env/
+#venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Other
+scratch*.py
+*.csv
+!/data/*/1placeholder.txt
+/data/*/*.csv
